@@ -30,11 +30,12 @@ CustomerManagement/
 
 ## How to Run
 
+git clone repository
 ### Command Line
-```bash
-cd C:\Users\kenzo\CascadeProjects\CustomerManagement
+bash
+cd file_location
 dotnet run
-```
+
 
 ### Visual Studio
 1. Open `CustomerManagement.csproj`
@@ -83,9 +84,9 @@ Enter your choice: 3
 
 ═══ CREATE NEW CUSTOMER ═══
 
-Name: John Doe
-Email: john@example.com
-Phone Number: +1234567890
+Name: Colin
+Email: colin@example.com
+Phone Number: +27817465178
 
 ✓ Customer created successfully with ID: 1
 ```

@@ -30,11 +30,12 @@ CustomerManagement/
 
 ## How to Run
 
+git clone repository
 ### Command Line
-```bash
-cd C:\Users\kenzo\CascadeProjects\CustomerManagement
+bash
+cd file_location
 dotnet run
-```
+
 
 ### Visual Studio
 1. Open `CustomerManagement.csproj`
